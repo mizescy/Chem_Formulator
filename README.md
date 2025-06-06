@@ -36,14 +36,14 @@
 <details>
   <summary>📋 Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#key-features">Key Features</a></li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#usage-guide">Usage Guide</a></li>
-    <li><a href="#system-requirements">System Requirements</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#🔬-about-the-project">About The Project</a></li>
+    <li><a href="#✨-key-features">Key Features</a></li>
+    <li><a href="#🛠️-built-with">Built With</a></li>
+    <li><a href="#🚀-getting-started">Getting Started</a></li>
+    <li><a href="#📖-usage-guide">Usage Guide</a></li>
+    <li><a href="#💻-system-requirements">System Requirements</a></li>
+    <li><a href="#📄-license">License</a></li>
+    <li><a href="#📞-contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
