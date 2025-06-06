@@ -42,8 +42,6 @@
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#usage-guide">Usage Guide</a></li>
     <li><a href="#system-requirements">System Requirements</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -55,8 +53,6 @@
 
 **Chemical Formulator** is a cutting-edge desktop application designed for chemical component analysis and essential oil identification. Built with modern technologies and enhanced by machine learning algorithms, this tool provides accurate matching of chemical components against a comprehensive database of marker components.
 
-### 🎯 Project Vision
-To revolutionize chemical analysis by providing researchers, chemists, and industry professionals with an intuitive, accurate, and efficient tool for identifying chemical compositions and potential essential oil matches.
 
 ### 🏗️ Architecture
 The application features a robust, object-oriented architecture that ensures:
@@ -144,6 +140,7 @@ The application features a robust, object-oriented architecture that ensures:
 ## 📖 Usage Guide
 
 ### Step-by-Step Analysis Process
+> **⚠️ Important Note**: Performance varies with different System Specs some will be slow some will be fast to get the analysis.
 
 #### 1. **Input Chemical Data**
 - Copy your raw materials and their percentages
