@@ -36,20 +36,20 @@
 <details>
   <summary>📋 Table of Contents</summary>
   <ol>
-    <li><a href="#🔬-about-the-project">About The Project</a></li>
-    <li><a href="#✨-key-features">Key Features</a></li>
-    <li><a href="#🛠️-built-with">Built With</a></li>
-    <li><a href="#🚀-getting-started">Getting Started</a></li>
-    <li><a href="#📖-usage-guide">Usage Guide</a></li>
-    <li><a href="#💻-system-requirements">System Requirements</a></li>
-    <li><a href="#📄-license">License</a></li>
-    <li><a href="#📞-contact">Contact</a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#key-features">Key Features</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#usage-guide">Usage Guide</a></li>
+    <li><a href="#system-requirements">System Requirements</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## 🔬 About The Project
+## About The Project
 
 **Chemical Formulator** is a cutting-edge desktop application designed for chemical component analysis and essential oil identification. Built with modern technologies and enhanced by machine learning algorithms, this tool provides accurate matching of chemical components against a comprehensive database of marker components.
 
@@ -64,7 +64,7 @@ The application features a robust, object-oriented architecture that ensures:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- KEY FEATURES -->
-## ✨ Key Features
+## Key Features
 
 <table>
 <tr>
@@ -103,7 +103,7 @@ The application features a robust, object-oriented architecture that ensures:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- BUILT WITH -->
-## 🛠️ Built With
+## Built With
 
 ### Core Technologies
 [![Python][Python.py]][Python-url]
@@ -118,7 +118,7 @@ The application features a robust, object-oriented architecture that ensures:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## 🚀 Getting Started
+## Getting Started
 
 1. **📊 Setup Database**
    - Obtain your database in `.xlsx` format
@@ -137,7 +137,7 @@ The application features a robust, object-oriented architecture that ensures:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE GUIDE -->
-## 📖 Usage Guide
+## Usage Guide
 
 ### Step-by-Step Analysis Process
 > **⚠️ Important Note**: Performance varies with different System Specs some will be slow some will be fast to get the analysis.
@@ -169,7 +169,7 @@ The application features a robust, object-oriented architecture that ensures:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SYSTEM REQUIREMENTS -->
-## 💻 System Requirements
+## System Requirements
 
 ### Minimum Requirements
 - **OS**: Windows 10, macOS 10.14, or Linux Ubuntu 18.04+
@@ -186,14 +186,14 @@ The application features a robust, object-oriented architecture that ensures:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## 📞 Contact
+## Contact
 
 **Gordon Boo** - self-proclaim software engineer
 
