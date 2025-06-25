@@ -81,7 +81,7 @@ The application features a robust, object-oriented architecture that ensures:
 
 ### 📊 Data Management
 - **Excel Integration** - Import/export functionality with detailed annotations
-- **Flexible Input Methods** - Copy-paste or file upload options
+- **Simple Input Method** - Copy-paste-analyze
 - **Result Export** - Professional reports with match scores
 - **Database Updates** - Easy marker file regeneration
 
@@ -265,7 +265,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/mizescy/Chem_Formulator.svg?style=for-the-badge
 [issues-url]: https://github.com/mizescy/Chem_Formulator/issues
 [license-shield]: https://img.shields.io/github/license/mizescy/Chem_Formulator.svg?style=for-the-badge
-[license-url]: https://github.com/mizescy/Chem_Formulator/blob/master/LICENSE.txt
+[license-url]: https://github.com/mizescy/Chem_Formulator/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://sg.linkedin.com/in/gordon-boo-711166197
 
