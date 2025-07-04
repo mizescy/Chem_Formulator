@@ -263,7 +263,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [stars-url]: https://github.com/mizescy/Chem_Formulator/stargazers
 [issues-shield]: https://img.shields.io/github/issues/mizescy/Chem_Formulator.svg?style=for-the-badge
 [issues-url]: https://github.com/mizescy/Chem_Formulator/issues
-[license-shield]: https://img.shields.io/github/license/mizescy/chem_formulator?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/mizescy/chem_formulator?style=for-the-badge&cacheSeconds=60
 [license-url]: https://github.com/mizescy/Chem_Formulator/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://sg.linkedin.com/in/gordon-boo-711166197
