@@ -167,6 +167,14 @@ The application features a robust, object-oriented architecture that ensures:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTO UPDATE -->
+## Auto Update
+- **Key**: locate the key within the directory called "key.txt", will be the same directory as Formulator.exe.
+- Press on Help in the Formulator, follow the pop ups and paste it and save token
+- Token wil start with ghp
+- the web browser can be ignored as is for developer purpose
+
+
 <!-- SYSTEM REQUIREMENTS -->
 ## System Requirements
 
